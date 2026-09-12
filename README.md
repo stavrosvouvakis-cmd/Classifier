@@ -1,4 +1,5 @@
-Classifier is a simple app written in AppleScript to help you organise your files with a click, it supports all basic file formats and more will be added in each update. I am a solo developer and I want to test the app as much as possible before realising it if you found any issue sent me a dm on threads/Instagram: stevevouv
+Classifier organises the downloads on your Mac automatically with one click based on their extensions Everything happens within your Mac and no one has access to your files, completely offline and very lightweight on CPU & RAM usage. Everything happens instantly no loading screen just click and done!
+if you found any issue sent me a dm on threads/Instagram: stevevouv
 
 **Guide on how to use Classifier:**
 
